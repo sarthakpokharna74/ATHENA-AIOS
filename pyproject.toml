@@ -1,0 +1,5 @@
+[project]
+name = "athena-aios"
+version = "0.1.0"
+description = "ATHENA AI Operating System"
+requires-python = ">=3.11"
